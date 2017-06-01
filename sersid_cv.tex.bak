@@ -18,10 +18,10 @@
 \address{}{Красногорск, Московская область}
 \phone{+89032349002}
 \email{sersid@bk.ru}
-\quote{ЦЕЛЬ: Работа в стабильной IT-компании в роли разработчика ПО, менеджера IT-проектов.}
+\quote{ЦЕЛЬ: Работа в стабильной IT-компании в роли разработчика ПО}
 
 %\extrainfo{website: poopkin.info}
-\renewcommand\refname{Selected publications}
+\renewcommand\refname{Основные Публикации}
 \nopagenumbers{} % uncomment to suppress automatic page numbering for CVs longer than one page
 
 \begin{document}
