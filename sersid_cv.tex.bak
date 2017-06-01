@@ -1,0 +1,69 @@
+%\documentclass[11pt,a4paper,sans]{moderncv}
+%\usepackage[utf8]{inputenc}
+\documentclass[12pt,a4paper,russian]{moderncv}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\moderncvstyle{classic}                        % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black}                          % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+% \usepackage[usenames]{xcolor}  %%% this does not work = thanks to idiots from modernCV package.
+%
+\usepackage[scale=0.87]{geometry}
+\setlength{\hintscolumnwidth}{3 cm}           % if you want to change the width of the column with the dates
+
+\firstname{Сергей}
+\familyname{Сидякин}
+
+\address{}{Красногорск, Московская область}
+\phone{+89032349002}
+\email{sersid@bk.ru}
+\quote{ЦЕЛЬ: Работа в стабильной IT-компании в роли разработчика ПО, менеджера IT-проектов.}
+
+%\extrainfo{website: poopkin.info}
+\renewcommand\refname{Selected publications}
+\nopagenumbers{} % uncomment to suppress automatic page numbering for CVs longer than one page
+
+\begin{document}
+\makecvtitle
+
+\section{Общая информация}
+% \cventry{Date of birth}{June 20, 1982}{}{Russian Federation}{}{}
+\cventry{}{6 лет опыта работы в области IT, научно-исследовательских проектов в роли руководителя и исполнителя, в области разработки ПО с использованием широкого круга технологий (С, C++, OpenCV, OpenMP, SSE). Базовое владение научной средой программирования Matlab. Опыт управления сектором в научно-исследовательской лаборатории ФГУП ГосНИИАС по тематике видеонаблюдения. Большой опыт в части создания отчётности (с использованием Tex, Latex), анализа и сбора данных. Аналитическое мышление, умение находить решения трудных проблем, широкий кругозор, быстрообучаемость}{}{}{}{}
+
+\section{Опыт работы}
+%\cventry{2013 -- now }{}{\newline}{\newline}
+%{\newline Начальник сектора}{}
+
+\cventry{2013 -- present}{Начальник сектора}
+{ФГУП «Государственный научно-исследовательский институт авиационных систем» (ГосНИИАС)}{}{}{}
+
+\cventry{ 2012 -- 2013 }{Инженер 2-ой категории} {ФГУП ГосНИИАС}{}{}{}
+\cventry{ 2009 -- 2012 }{Инженер} {ФГУП ГосНИИАС}{}{}{}
+
+\section{Технические навыки}
+\cvitem{Языки программирования}{C/С++, C$\sharp$, Tex/Latex, Matlab}
+
+\section{Образование}
+\cventry{2013}{Кандидат техничеких наук}{Вычислительный центр им. А. А. Дородницына РАН (ВЦ РАН)}{Диплом}{}{}
+
+\cventry{2003-2009}{Инженер по специальности "Управление и информатика в технических системах"}{Московский Авиационный Институт (МАИ)}{Диплом с отличием}{}{}
+
+\cventry{2008}{Курс по программированию на языках С и С++}{НОУ "Институт Информационных Технологий"}{Сертификат}{}{}
+
+\cventry{2007}{Курс английского языка, Intermediate и подготовка к FCE }{Дипломатическая академия МИД РФ}{Сертификат}{}{}
+
+\cventry{2005 - 2006}{Курс английского языка}{Дипломатическая академия МИД РФ}{Сертификат}{}{}
+
+\section{Иностранные языки}
+\cvitem{Английский}{Intermediate и Upper-Intermediate}
+\cvitem{Русский}{Родной язык}
+
+% Publications from a BibTeX file
+\nocite{*}
+\bibliographystyle{unsrt}
+
+\bibliography{sidyakinbiblio}       % 'publications' is the name of a BibTeX file
+\normalsize
+
+\end{document} 
