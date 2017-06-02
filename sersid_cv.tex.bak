@@ -63,7 +63,7 @@
 \nocite{*}
 \bibliographystyle{unsrt}
 
-\bibliography{sidyakinbiblio}       % 'publications' is the name of a BibTeX file
+\bibliography{sidyakinbiblio_main}       % 'publications' is the name of a BibTeX file
 \normalsize
 
-\end{document} 
+\end{document}

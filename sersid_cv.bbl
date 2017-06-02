@@ -1,73 +1,72 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{sid1}
-{1. Сидякин С.В., }{Рубис А.Ю., }{Горбацевич В.С.}
-\newblock Построение и использование
-  морфологических коэффициентов
-  корреляции в задачах анализа изображений.
-\newblock {\em Вопросы оборонной техники. Сер. 9.},
-  №3:53--59, 2010.
+{1. Сидякин С.В.}
+\newblock Разработка алгоритмов построения
+  морфологических спектров для анализа
+  цифровых изображений и
+  видеопоследовательностей.
+\newblock {\em Диссертация канд. техн. наук.
+  Вычислительный центр РАН (ВЦ РАН), Москва},
+  1:163, 2013.
 
 \bibitem{sid2}
-{2. Сидякин С.В., }{Визильтер Ю.В.}
-\newblock Регуляризация гранично-скелетных
-  представлений формы бинарных фигур
-  методом динамического программирования.
-\newblock {\em Вестник компьютерных и
-  информационных технологий}, №9:9--16, 2011.
+{2. Sidyakin S.V., }{Lomov N.A.}
+\newblock Shape classification using bag of edge contexts.
+\newblock {\em Computer Vision and Image Understanding (submitted)},
+  unknown:unknown, 2017.
 
 \bibitem{sid3}
-{3. Vizilter Y.V., }{Sidyakin S.V., }{Rubis A.Y., }{Gorbazevich V.S.}
-\newblock Skeleton-based morphological shape comparison.
-\newblock {\em Pattern Recognition and Image Analysis}, Vol.21, №2:357--360.,
-  2011.
+{3. Sidyakin S.V., }{Lomov N.A., }{Vizilter Y.V.}
+\newblock 2d figure classification via fusion of shape descriptors based on
+  contours, thickness and skeleton-geodesic distance distributions.
+\newblock {\em Patter Recognition Journal (submitted)}, unknown:unknown, 2017.
 
 \bibitem{sid4}
-{4. Визильтер Ю.В., }{Сидякин С.В., }{Рубис А.Ю.}
-\newblock Вычисление морфологических спектров
-  плоских фигур с использованием
-  непрерывных скелетных представлений.
-\newblock {\em Математические методы
-  распознавания образов}, Сборник
-  докладов:416--419, 2011.
+{4. Sidyakin S.V., }{Vishnyakov B.V.}
+\newblock Real-time detection of abandoned bags using cnn.
+\newblock {\em Proc. SPIE, Germany}, unknown:unknown, 2017.
 
 \bibitem{sid5}
-{5. Визильтер Ю.В., }{Сидякин С.В., }{Рубис А.Ю.}
-\newblock Вычисление морфологических спектров
-  плоских фигур с использованием
-  непрерывных скелетных представлений.
-\newblock {\em Математические методы
-  распознавания образов}, Сборник
-  докладов:416--419, 2011.
+{5. Сидякин С.В., }{Егоров А.И., }{Малин И.К.}
+\newblock Распознавание движущихся
+  человеческих фигур на
+  видеопоследовательности с
+  использованием дисковой карты толщин.
+\newblock {\em Вестник Московского авиационного
+  института}, 21(5):157--166, 2014.
 
 \bibitem{sid6}
-{6. Визильтер Ю.В., }{Сидякин С.В.}
-\newblock Построение морфологических спектров
-  полутоновых изображений.
-\newblock {\em Вестник компьютерных и
-  информационных технологий}, №4:8--17, 2012.
+{6. Sidyakin S.V., }{Vishnyakov B.V., }{Vizilter Y.V., }{Roslov N.I.}
+\newblock Mutual comparative filtering for change detection in videos with
+  unstable illumination conditions.
+\newblock {\em ISPRS Archives, Germany}, XLI-B3:535--541, 2016.
 
 \bibitem{sid7}
-{7. Визильтер Ю.В., }{Сидякин С.В.}
-\newblock Построение спектров морфологической
-  сложности.
-\newblock {\em Вестник компьютерных и
-  информационных технологий}, №11:3--8, 2012.
+{7. Сидякин С.В., }{Визильтер Ю.В.}
+\newblock Морфологические дескрипторы формы
+  бинарных изображений на основе
+  эллиптических структурирующих элементов.
+\newblock {\em Компьютерная оптика, Самара},
+  38(3):511--520, 2014.
 
 \bibitem{sid8}
-{8. Визильтер Ю.В., }{Сидякин С.В.}
-\newblock Бициклические каркасы двумерных
-  фигур.
-\newblock {\em Вестник компьютерных и
-  информационных технологий}, №10:17--21, 2012.
+{8. Ломов Н.А., }{Сидякин С.В.}
+\newblock Классификация двумерных фигур с
+  использованием скелетно-геодезических
+  гистограмм толщин-расстояний.
+\newblock {\em Компьютерная оптика, Самара},
+  41(2):227--236, 2017.
 
 \bibitem{sid9}
-{9. Визильтер Ю.В., }{Сидякин С.В.}
-\newblock Построение обобщенных скелетов
-  многоугольных бинарных фигур с
-  многоугольными выпуклыми
-  структурирующими элементами.
-\newblock {\em Интеллектуализация обработки
-  информации}, Сборник докладов:414--418, 2012.
+{9. Vizilter Y.V., }{Sidyakin S.V.}
+\newblock Comparison of shapes of two-dimensional figures with the use of
+  morphological spectra and emd metrics.
+\newblock {\em Pattern Recognition and Image Analysis}, 25(3):365--372, 2015.
+
+\bibitem{sid10}
+{10. Lomov N.A., }{Sidyakin S.V.}
+\newblock Morphological moments of binary images.
+\newblock {\em ISPRS Archives, Germany}, XLII-2-W4:19--25, 2017.
 
 \end{thebibliography}
